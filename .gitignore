@@ -1,0 +1,5 @@
+sandbox/
+nudge/
+.DS_Store
+*.log
+.env
